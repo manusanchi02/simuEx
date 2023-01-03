@@ -14,7 +14,7 @@ public class Test {
 	 * Si tolga il commento ai test..
 	 */
 
-	/*
+	
 	// Questo test verifica che l'esecuzione dei processi sia circolare
 	public void testExec() {  
 		Scheduler<String> sch = new SchedulerImpl<>();
@@ -169,5 +169,5 @@ public class Test {
 			fail("Wrong exception thrown");
 		}
 	}
-	*/
+	
 }
